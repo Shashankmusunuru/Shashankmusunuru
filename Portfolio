@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shashank Musunooru | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Shashank Musunooru</h1>
+        <p>Engineering Management | Researcher | Automation & Manufacturing</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#research">Research</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Graduate student in Engineering Management at Texas State University, currently researching automation and sensor-based instrumentation at RoboCo Lab.</p>
+    </section>
+    
+    <section id="research">
+        <h2>Research & Projects</h2>
+        <p>Working on sensor integration and process optimization using DFRobot Gravity DO Sensor, CQRobot TDS Meter, and GAOHOU pH Sensor.</p>
+    </section>
+    
+    <section id="skills">
+        <h2>Skills & Certifications</h2>
+        <ul>
+            <li>SolidWorks, AutoCAD, Ansys, MATLAB</li>
+            <li>3D Printing, Manufacturing Processes</li>
+            <li>Quality Control & Process Optimization</li>
+        </ul>
+    </section>
+    
+    <section id="experience">
+        <h2>Experience</h2>
+        <p>Graduate Instructional Assistant & Researcher at Texas State University. Previous experience in quality control and mechanical design.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: dmb319@txstate.edu</p>
+        <p>LinkedIn: <a href="#">Your LinkedIn Profile</a></p>
+    </section>
+</body>
+</html>
